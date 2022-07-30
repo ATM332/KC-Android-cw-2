@@ -1,0 +1,11 @@
+public class Main {
+public static void main (String[] args) {
+    int Height = 170;
+    
+    if(Height>160){
+    System.out.println("You can enter the rollercoaster :)");
+ }else{
+    System.out.println("You can't enter the rollercoaster :(");
+}
+}
+}
